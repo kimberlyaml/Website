@@ -1,0 +1,25 @@
+h3 {
+  color:pink;
+  font-size: 25px;
+}
+
+h4 {
+  color:#63A0DD;
+  font-size: 15;
+}
+
+body{
+  /* text */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: none;
+  font-weight: normal;
+
+  /* canvas */
+  background-color: #b3b3b3;
+  background-image: none;
+
+  /* spacing */
+  margin:0;
+  padding:10% 20% 40%;
+}
